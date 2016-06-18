@@ -1,1 +1,1 @@
-# img2table
+이미지 파일의 픽셀을 읽어와서 HTML테이블 bgcolor에 하나하나 넣는다.
